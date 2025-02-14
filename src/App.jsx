@@ -55,7 +55,7 @@ function App() {
             onClick={() => setIsModalOpen(true)}
             className="px-6 py-3 bg-pink-500/10 border border-pink-500/20 text-pink-500 rounded-lg hover:bg-pink-500/20 transition-all duration-300 ease-in-out"
           >
-            From Daddy
+            From Zaydan
           </button>
         </div>
 
@@ -87,8 +87,8 @@ function App() {
             <div className="fixed top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 bg-white rounded-xl shadow-xl p-6 z-50 w-full max-w-md">
               <div className="flex justify-between items-start mb-4">
                 <div>
-                  <h2 className="text-2xl font-bold text-gray-900">Message from Daddy</h2>
-                  <p className="text-gray-500 mt-1">Hey, Happy Valentines Mama</p>
+                  <h2 className="text-2xl font-bold text-gray-900">Message from Zaydan</h2>
+                  <p className="text-gray-500 mt-1">Hey, Happy Valentines</p>
                 </div>
                 <button 
                   onClick={() => setIsModalOpen(false)}
@@ -103,7 +103,7 @@ function App() {
                   <p className="text-sm font-medium text-gray-500">Before you, love was just a word, something I'd read in books and watched in movies, it felt distant like it wasn't meant for me, it was always Cinderella and Prince Charming, but then you came along and everything changed.</p>
                 </div>
                 <div>
-                  <p className="text-sm font-medium text-gray-500">You showed me the true meaning of love, from the way you speak to me, to the way your sense of humor brightens up my day, You've taught me that love is comfort and passion.</p>
+                  <p className="text-sm font-medium text-gray-500">You showed me the true meaning of love,  not in words but your actions—the way you'd look at me, the way you stay on the side of the road while we are walking, the way you listen to me and hold my hands like you are scared of losing me. You've taught me that love is comfort and passion.</p>
                 </div>
                 <div>
                   <p className="text-sm font-medium text-gray-500">You've taught me that love isn't about losing oneself; you've turned love into something solid and true for me, and for that, for you, I am endlessly grateful.</p>
