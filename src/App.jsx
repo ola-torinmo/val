@@ -103,7 +103,7 @@ function App() {
                   <p className="text-sm font-medium text-gray-500">Before you, love was just a word, something I'd read in books and watched in movies, it felt distant like it wasn't meant for me, it was always Cinderella and Prince Charming, but then you came along and everything changed.</p>
                 </div>
                 <div>
-                  <p className="text-sm font-medium text-gray-500">You showed me the true meaning of love,  not in words but your actions—the way you'd look at me, the way you stay on the side of the road while we are walking, the way you listen to me and hold my hands like you are scared of losing me. You've taught me that love is comfort and passion.</p>
+                  <p className="text-sm font-medium text-gray-500">You showed me the true meaning of love,  not in words but your actions—the way you'd look at me, the way you stay on the side of the road while we are walking, the way you listen to me and hold my hands like you are scared of losing me. You've taught me that love is comfort and passion..</p>
                 </div>
                 <div>
                   <p className="text-sm font-medium text-gray-500">You've taught me that love isn't about losing oneself; you've turned love into something solid and true for me, and for that, for you, I am endlessly grateful.</p>
